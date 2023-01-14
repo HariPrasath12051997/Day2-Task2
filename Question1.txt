@@ -1,0 +1,18 @@
+Write a blog on difference between documents and windows objects?
+
+Documents Objects:
+* It Represents WebPages loaded in the Browser
+*We can add the Dynmaic Content of WebPages
+* Followed By syntax : documents.property_name
+* Includes Properties like active Elements,body,fullscreenelement,BaseURL etc
+* It contains the methods like addevenlisterner(),close(),create Attribute() etc
+* Syntax of methods--> documents.methods_name
+
+
+Windows Objets:
+* It Represents the Frame that displayed on the WebPage
+* It is Used to show the content of the Documents which appears on the window.
+* Followed by syntax : windows.propert_name
+* Includes Properties like closed,customerelements, Documents,Frames[] etc
+* It contains the methods like alert(),atob(),cleartimeout(),close etc.
+*Synatx of methods---> windows.methods_name,
